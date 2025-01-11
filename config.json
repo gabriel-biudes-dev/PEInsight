@@ -1,0 +1,15 @@
+{
+    "print_pe_header": true,
+    "print_pe_sections": true,
+    "print_pe_imports": true,
+    "print_pe_exports": true,
+    "print_pe_resources": true,
+    "print_pe_tls": true,
+    "print_pe_debug": true,
+    "print_pe_relocations": true,
+    "print_pe_signature": true,
+    "print_file_hashes": true,
+    "print_overlay": true,
+    "validate_checksum": true,
+    "check_unusual_sections": true
+}
