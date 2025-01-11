@@ -4,4 +4,5 @@ PEAnalyzer is a tool for analyzing Portable Executable (PE) files, extracting de
 # Usage:
 
   pip install -r requirements.txt
+  
   python peinsight.py --config config.json .\executable_path.exe
